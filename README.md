@@ -77,3 +77,5 @@ test jenkins
 # Checking Jenkins build
 
 # Transfer artifacts to NFS Server
+
+test
