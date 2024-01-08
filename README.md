@@ -74,8 +74,4 @@ test jenkins
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-# Checking Jenkins build
-
-# Transfer artifacts to NFS Server
-
-test
+# Test Jenkins
