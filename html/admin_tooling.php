@@ -80,7 +80,7 @@ if (isset($_GET['logout'])) {
 
 <div class="container">
 <div class="box">
-	<a href="https://jenkins.infra.zooto.io/" target="_blank">
+	<a href="http://3.123.41.202:8080/login?from=%2F" target="_blank">
 		<img src="img/jenkins.png" alt="Snow" width="400" height="150">
 	</a>
 </div>
